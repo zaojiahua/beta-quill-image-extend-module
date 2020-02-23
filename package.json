@@ -1,0 +1,17 @@
+{
+  "name": "beta-quill-image-extend-module",
+  "version": "1.0.0",
+  "description": "sorry everyone, 由于作者自身原因，没有精力和时间处理issues,该插件已经不做维护了，希望大家见谅。\r # quill-image-extend-module \r vue-quill-editor的增强模块，",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quill-image-extend-module"
+  ],
+  "author": "zaojiahua",
+  "license": "ISC"
+}
